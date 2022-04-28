@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @netng
+👋 Hi, I’m @netng
 Just a coding hobies & long life learner ✨
 
 Btw, this is just my new repo. My old repo is ndgspn . Nothing special with this one, but just like a restoration, for new good life of learner!
